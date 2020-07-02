@@ -1,0 +1,21 @@
+This directory contains all levels from the original Boulder Dash. Only very minor changes have been made, to ensure that the levels are still solvable. 
+- Level 1: As simple as it gets; collect the diamonds and head to the exit.
+- Level 2: Avoid the firefly. You may need to push some boulders out of the way.
+- Level 3: Be careful for deadlocks from trapping Rockford or diamonds.
+- Level 4: No diamonds in sight, try dropping boulders on the butterflies.
+- Level 5: Same as before, but much simpler. This requires you need to get your timing right.
+- Level 6: Fireflies guarding diamonds. Try exploiting the movement pattern of the fireflies.
+- Level 7: Same as above.
+- Level 8: You will need to trap the amoeba by surrounding it with boulders.
+- Level 9: Use the magic wall to generate diamonds.
+- Level 10: Straight forward path, but you can't delay.
+- Level 11: You will need to drop the boulders/diamonds, and get your timing right to collect the falling diamonds without getting hurt.
+- Level 12: You will need to lure away the fireflies.
+- Level 13: All diamonds visible, but will need some planning to get to them.
+- Level 14: Some diamonds are not reachable, so you will need to lure fireflies close to the walls and drop boulders to break open the walls.
+- Level 15: Simple, but chaotic. This requires patients and timing to collect the diamonds safely. 
+- Level 16: You will need to clear an area so the butterflies can explode in the amoeba, causing diamonds to drop.
+- Level 17: Lure the fireflies away, so you can drop the boulders onto the butterflies and get diamonds.
+- Level 18: Use the magic wall to generate diamonds, while avoiding the fireflies.
+- Level 19: Use the fireflies to explode the walls, then use the magic wall to generate diamonds.
+- Level 20: Short simple level, drop the boulders through the magic wall. But be careful not to let them drop through the second one, turning back into boulders.
